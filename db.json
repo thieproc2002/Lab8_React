@@ -1,0 +1,23 @@
+{
+  "account":[
+    {
+        "username": "user1",
+        "password": "password1"
+    },
+    {
+        "username": "user2",
+        "password": "password2"
+    }
+
+],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
